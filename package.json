@@ -7,7 +7,10 @@
   },
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.15.6"
   },
   "scripts": {
     "start": "react-scripts start",
